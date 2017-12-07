@@ -6,7 +6,7 @@ Users are able to signup, signin and sign out. 1 route has been created that is 
 ### Prerequisites
 
 Requires a backend system that can provide an authorization token
-based on [here] https://github.com/DavidNaMills/Serverside-Authentication
+based on: https://github.com/DavidNaMills/Serverside-Authentication
 This frontend requires the backend to include the following end points:
 
 post /signup  requires Password and Email returns an authorization token
